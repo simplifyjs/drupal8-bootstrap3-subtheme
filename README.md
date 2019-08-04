@@ -9,13 +9,13 @@
 * Gulp
 * Bootstrap 3 Module
 
-###Working with Bootstrap
+### Working with Bootstrap
 Install Bootstrap 3. Download drupal 8 version https://www.drupal.org/project/bootstrap or install via drush command <code>drush dl bootstrap</code>
 
 #Note
 * Images like favicon.ico, screenshot.png and logo.svg are excluded
 
-###Working with Gulp
+### Working with Gulp
 To install Gulp:
 **Windows**
 <pre>
@@ -28,7 +28,7 @@ To install Gulp:
 <code>sudo npm install gulp -g</code>
 </pre>
 
-##Directory Setup
+## Directory Setup
 1. <code>git clone https://github.com/dreamypixy/d8bootstrap-subtheme.git</code>
 Inside ~themes/ directory
 2. <code>cd themes/clonedfolder</code>
@@ -62,3 +62,14 @@ Please refer to the @link registry Theme Registry @endlink topic.
 [Drupal Bootstrap]: https://www.drupal.org/project/bootstrap
 [Bootstrap Framework]: http://getbootstrap.com
 [jsDelivr CDN]: http://www.jsdelivr.com
+
+
+## Author
+* **Ann G.** ⊂(・﹏・⊂) [Simplify JS](http://simplifyjs.com)
+
+
+## License
+----
+GNU General Public License v3.0
+
+**Free Reference, oh Yeah! (￣▽￣)ゞ**
